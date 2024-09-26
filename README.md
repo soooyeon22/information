@@ -38,6 +38,6 @@
 
 [최다연]
 
-[이소연]
+[이소연](https://github.com/soooyeon22)
 
 [이수민]
